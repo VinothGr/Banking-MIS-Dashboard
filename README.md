@@ -99,7 +99,7 @@ README.md
 
 ## 📸 Dashboard Preview
 
-(Add dashboard screenshot here)
+![Banking Quality Dashboard](Images/Dashboard.png)
 
 ---
 
